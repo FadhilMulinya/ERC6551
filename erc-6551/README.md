@@ -1,14 +1,13 @@
 # How to Create an NFT Bound Account (ERC-6551)
 
-This project is based on the guide, [How to Create an NFT Bound Account (ERC-6551)](http://quicknode.com/guides/ethereum-development/nfts/how-to-create-and-deploy-an-erc-6551-nft).
 
 ## Clone Example Monorepo
 
 To begin, clone the `qn-guide-examples` repo, navigate to this project's directory and open the project directory in a code editor (VS code in this case).
 
 ```bash
-git clone https://github.com/quiknode-labs/qn-guide-examples.git
-cd qn-guide-examples/ethereum/erc-6551
+git clone git@github.com:FadhilMulinya/ERC6551.git
+cd ERC6551/ethereum/erc-6551
 code .
 ```
 
