@@ -3,7 +3,7 @@
 
 ## Clone Example Monorepo
 
-To begin, clone the `qn-guide-examples` repo, navigate to this project's directory and open the project directory in a code editor (VS code in this case).
+To begin, clone the  repo, navigate to this project's directory and open the project directory in a code editor (VS code in this case).
 
 ```bash
 git clone git@github.com:FadhilMulinya/ERC6551.git
